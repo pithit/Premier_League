@@ -2,6 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release)
 
+![Dash_image](Dash.png)
+
 ## Introduction
 
 This project aims to analyze and transform data from the Premier League 2021-2022 season using Python, Pandas, and SQLite3. The goal is to generate insights and prepare the data for building a dashboard with basic statistics.
