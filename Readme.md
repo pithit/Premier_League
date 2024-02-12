@@ -40,12 +40,17 @@ For reference, you can check the official Premier League table for the 2021-2022
 2. Run `data.py` to set up the database and explore the initial dataset.
 3. Run `transformed_data_sqlite3.py` to perform SQL-based data transformation.
 4. Run `transformed_data_dictionary.py` to perform dictionary-based data transformation.
+5. Run `webapp.py` to run the web app. 
 
 ## Next Steps
 
-The current project is an initial step towards creating a dashboard with more in-depth statistical analysis for the Premier League season. Future enhancements may include:
+Future enhancements may include:
 
 - Implementing additional queries for more detailed insights.
-- Utilizing visualization libraries like Matplotlib or Plotly for graphical representations.
-- Developing a dashboard using frameworks like Dash or Flask for web-based interaction.
+- Adding info in Teams tab
+- Developing models
+
+## Comments and Contributions
+
+Any feedback or contribution to improve this dashboard is welcome! If you have suggestions, ideas, or find any issues, feel free to open an issue or submit a pull request. Your feedback is valuable to me!
 
